@@ -1,0 +1,19 @@
+How to run localtheater Project
+
+1. Download the the zip file
+2. Extract the file and copy localtheater folder
+3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
+4. Create a database with name localtheater
+5. Import localtheater.sql file(given inside the zip package in sql file folder)
+6.run the script http://localhost/localtheater (frontend)
+7. For admin panel  http://localhost/localtheater/admin
+
+credential for admin panel :
+username / email : admin 
+Password : Test@12345
+
+
+
+credential for user :
+username / email : pll23@gmail.com 
+Password : 45
